@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "name": "OA",
-      "title": "OA",
-      "name_zh": "OA",
+      "name": "oa",
+      "title": "oa",
+      "name_zh": "oa",
       "url": "https://oa.szcaupd.com:9999/"
     }
   ]
